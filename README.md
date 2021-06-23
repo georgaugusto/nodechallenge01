@@ -198,4 +198,4 @@ Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o lin
 
 Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta!](https://discord.gg/pUU3CG4Z)
 
-> Documentação no [Notion](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8).
+> Documentação no [Notion](https://www.notion.so/Desafio-02-Trabalhando-com-middlewares-4f89bf538c2e4ee291382b92bdc36790).
